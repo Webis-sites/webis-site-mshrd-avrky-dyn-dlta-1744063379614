@@ -1,8 +1,38 @@
 {
   "projectName": "משרד-עורכי-דין-דלתא-3379",
   "businessName": "משרד עורכי דין דלתא",
-  "created": "2025-04-07T22:02:59.716Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו משרד עורכי דין מוביל בתחום הקמעונאות עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-07T22:03:28.565Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-mshrd-avrky-dyn-dlta-1744063379614",
+  "formData": {
+    "businessName": "משרד עורכי דין דלתא",
+    "businessType": "משרד עורכי דין",
+    "industry": "בריאות",
+    "businessSize": "large",
+    "description": "אנחנו משרד עורכי דין מוביל בתחום הקמעונאות עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#4ECDC4",
+    "secondaryColor": "#D4A5A5",
+    "typographyStyle": "modern",
+    "animationPreference": "extensive",
+    "headline": "משרד עורכי דין מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": false,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": true,
+    "needsBookingSystem": false,
+    "metaDescription": "משרד עורכי דין מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "משרד עורכי דין, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "minimalist",
+      "glassmorphism",
+      "corporate"
+    ]
+  }
 }
