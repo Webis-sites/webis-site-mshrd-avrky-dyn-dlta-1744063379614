@@ -1,0 +1,6 @@
+# robots.txt for משרד עורכי דין דלתא
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://משרד-עורכי-דין-דלתא.com/sitemap.xml
