@@ -20,6 +20,11 @@
   --glassmorphism-bg: rgba(255, 255, 255, 0.15);
   --glassmorphism-border: 1px solid rgba(255, 255, 255, 0.2);
   --transition-speed: 0.3s;
+
+  --shadow-color-hover: rgba(0, 0, 0, 0.15);
+  --card-blur: 10px;
+  --animation-speed: 0.3s;
+  --rtl-direction: rtl;
 }
 
 html {
