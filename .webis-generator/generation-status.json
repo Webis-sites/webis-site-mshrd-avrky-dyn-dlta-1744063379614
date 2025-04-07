@@ -1,8 +1,102 @@
 {
-  "projectName": "משרד-עורכי-דין-דלתא-3379",
-  "businessName": "משרד עורכי דין דלתא",
-  "created": "2025-04-07T22:02:59.716Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-07T22:04:21.974Z",
+  "status": {
+    "totalComponents": 15,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL hero section for a law firm with headline, subheadline, and prominent CTA"
+    },
+    {
+      "name": "NavBar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL navigation bar with logo, menu items, and contact button"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section highlighting the law firm's expertise and experience"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of the law firm's specialized healthcare legal services"
+    },
+    {
+      "name": "TeamSection",
+      "type": "team",
+      "status": "pending",
+      "description": "Showcase of the law firm's attorneys and legal experts"
+    },
+    {
+      "name": "CaseStudiesSection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Showcase of successful legal cases and outcomes"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Client testimonials and success stories"
+    },
+    {
+      "name": "LegalProcessSection",
+      "type": "process",
+      "status": "pending",
+      "description": "Step-by-step explanation of the firm's legal process"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form and information"
+    },
+    {
+      "name": "HealthcareLawInsightsSection",
+      "type": "blog-preview",
+      "status": "pending",
+      "description": "Preview of healthcare law insights and articles"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with links, contact info, and legal information"
+    },
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Main layout component that wraps all page content"
+    },
+    {
+      "name": "CTABanner",
+      "type": "cta",
+      "status": "pending",
+      "description": "Call-to-action banner encouraging visitors to schedule a consultation"
+    },
+    {
+      "name": "ClientsSection",
+      "type": "clients",
+      "status": "pending",
+      "description": "Showcase of notable healthcare clients and partners"
+    },
+    {
+      "name": "WhyChooseUsSection",
+      "type": "features",
+      "status": "pending",
+      "description": "Highlights of the firm's unique advantages and value proposition"
+    }
+  ],
+  "repoName": "webis-site-mshrd-avrky-dyn-dlta-1744063379614"
 }
